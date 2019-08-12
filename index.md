@@ -1,37 +1,75 @@
-## Welcome to GitHub Pages
+# コミックマーケット C96 作品ページ
 
-You can use the [editor on GitHub](https://github.com/HiragiGKUTH/c96/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+この度は `関西大学Game Creation Circle C「GCCC」` の作品を手にとっていただきありがとうございます．  
+当ページは`嶌岡 柊也 - Hiragi-GKUTH`の作品のページとなります．
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+各々のゲームは当ページ経由でDL/アップデート可能になる予定ですが，その際にパッケージ同梱のプロダクトコードが必要になります．
 
-### Markdown
+## 出る杭を打つゲーム
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![出る杭を打つゲーム](d.png)
 
-```markdown
-Syntax highlighted code block
+GCCC内の短期間ゲームジャムにて制作したゲームです．2005年前後のフラッシュゲームを意識して制作いたしました．
+あの頃の思い出を感じつつプレイしてください．
 
-# Header 1
-## Header 2
-### Header 3
+### 操作方法
+タイミングに合わせて左クリック
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+### 更新情報
+いくつかのバグや放置したままのゴミが残っているので，今後アップデートを予定しております
 
-**Bold** and _Italic_ and `Code` text
+|更新日|リンク|
+|:-:|:-:|
+|Coming soon...|Coming soon|
 
-[Link](url) and ![Image](src)
-```
+## 楽して単位ほしい！
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![楽して単位ほしい！](r.png)
 
-### Jekyll Themes
+こちらもゲームジャムで作成したゲームです．`1000兆円ほしい！`が流行った時代のゲームです．  
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HiragiGKUTH/c96/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### 操作方法
+* 左クリック: 単位を拾う  
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+単位が落ちていくので，できるだけ**ギリギリ**に取りましょう，**ギリギリ**の方が楽ですからね，スコアもたまります．
+ただ落としてしまうと大幅な原点です．  
+Twitterでスコア報告も出来るのでハッシュタグで検索しましょう！
+
+### 更新情報
+既知のバグが存在しないので，今の所未定です．更新あるかもしれない
+
+|更新日|リンク|
+|:-:|:-:|
+|Coming soon...|Coming soon|
+
+## Project-c96
+![Project-c96](p.png)
+
+完成しなかった不完全作品．申し訳ありません．
+途中までは弾幕STGとして制作していたゲーム．途中で何故か音ゲーに変更．開発途中感あふれる画面をお楽しみください(?)
+採用している2曲はすべてオリジナルで，今後増えます．
+またユーザ自身で好きな楽曲を登録でき，譜面を作成する機能もつけています．
+
+### 操作方法及びゲーム説明
+* タイトル画面
+    * Game Start以外は選択できません．
+* セレクト画面
+    * 左クリック: プレイ
+    * 右クリック: 譜面作成
+* ゲーム画面/譜面作成画面
+    * S, D, F, J, K, Lキー: ノーツを叩く
+    * 譜面作成の場合，押したタイミングが表示されていきます
+    * 楽曲終了とともに譜面が保存されます．
+
+### 更新情報
+見たとおり全くの未完成のため，今後開発が進むごとに更新をしていきます．
+
+|更新日|リンク|
+|:-:|:-:|
+|Coming soon...|Coming soon|
+
+
+# ライセンス
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="クリエイティブ・コモンズ・ライセンス" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a><br />この 作品 は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
